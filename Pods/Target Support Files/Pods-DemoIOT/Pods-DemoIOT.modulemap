@@ -1,0 +1,6 @@
+framework module Pods_DemoIOT {
+  umbrella header "Pods-DemoIOT-umbrella.h"
+
+  export *
+  module * { export * }
+}
